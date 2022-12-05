@@ -1,0 +1,4 @@
+telebot
+rembg
+pathlib
+PIL
